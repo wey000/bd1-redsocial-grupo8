@@ -5,7 +5,8 @@
 -- Entregable: Tarea 3 - Modelo Físico (DDL)
 -- =============================================================================
 
--- 1. Borrar la base de datos por completo para limpiar cualquier residuo anterior
+-- 1. Borrar la base de datos por completo para limpiar cualquier residuo anterior.
+-- Esto lo hice porque tuve problemas en la creadcion de las tablas y se me estaban cruzando los procesos.
 DROP DATABASE IF EXISTS bd_redsocial_pascualina;
 
 -- 2. Crear y seleccionar la base de datos limpia
