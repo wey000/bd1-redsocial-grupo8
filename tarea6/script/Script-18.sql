@@ -1,7 +1,7 @@
 SELECT 
-    u.id_usuario, 
-    u.nombre, 
-    u.email
+    u.id_usuario,
+    u.nombre_completo,
+    u.correo_institucional
 FROM 
     usuarios u
 WHERE EXISTS (
